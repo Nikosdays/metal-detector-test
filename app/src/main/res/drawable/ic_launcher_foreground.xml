@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple Wheel / Star shape icon -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,20 A34,34 0 1 0 54,88 A34,34 0 1 0 54,20 Z M54,26 A28,28 0 1 1 54,82 A28,28 0 1 1 54,26 Z" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M54,26 L54,54 L73.8,34.2 Z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,54 L73.8,34.2 L82,54 Z" />
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M54,54 L82,54 L73.8,73.8 Z" />
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M54,54 L73.8,73.8 L54,82 Z" />
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M54,54 L54,82 L34.2,73.8 Z" />
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M54,54 L34.2,73.8 L26,54 Z" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M54,54 L26,54 L34.2,34.2 Z" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M54,54 L34.2,34.2 L54,26 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 A6,6 0 1 0 54,60 A6,6 0 1 0 54,48 Z" />
+</vector>
